@@ -1,5 +1,4 @@
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammed-imad-umar/detecting-twitter-bots-ml/blob/main/src/Main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laharika0127/detecting-twitter-bots-ml/blob/main/src/Main.ipynb)
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
@@ -52,7 +51,7 @@ detecting-twitter-bots-ml/
 ### 🚀 How to Run
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/mohammed-imad-umar/detecting-twitter-bots-ml.git
+git clone https://github.com/laharika0127/detecting-twitter-bots-ml.git
 ```
 
 2️⃣ Install dependencies:
@@ -81,8 +80,7 @@ pip install -r requirements.txt
 ---
 
 ### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-imadu1525%40gmail.com-red)](mailto:imadu1525@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Imad%20Umar-blue)](https://www.linkedin.com/in/mohammed-imad-umar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mohammed__imad__umar-orange)](https://leetcode.com/mohammed_imad_umar)
+[![Email](https://img.shields.io/badge/Email-laharikamarri%40gmail.com-red)](mailto:laharikamarri@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-laharika0127-black)](https://github.com/laharika0127)
 
 ⭐ *"Detecting fake accounts, one bot at a time!"*
