@@ -1,5 +1,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laharika0127/detecting-twitter-bots-ml/blob/main/src/Main.ipynb)
-
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -31,13 +30,13 @@ The model analyzes user behavior, account metadata, tweet frequency, and URL pat
 ### 📂 Project Structure
 ```
 detecting-twitter-bots-ml/
-│── data/                 # Dataset files
-│── docs/                 # Screenshots & visualizations
-│── notebooks/            # Jupyter Notebooks
-│── src/                  # Source code (model scripts)
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-│── LICENSE               # MIT License
+├── data/                 # Dataset files
+├── docs/                 # Screenshots & visualizations
+├── notebooks/            # Jupyter Notebooks
+├── src/                  # Source code (model scripts)
+├── requirements.txt      # Dependencies
+├── README.md             # Project documentation
+├── LICENSE               # MIT License
 ```
 
 ---
@@ -60,8 +59,8 @@ pip install -r requirements.txt
 ```
 
 3️⃣ Run the project:
-- Open `src/Main.ipynb` in Jupyter or Colab  
-- OR double-click `src/run.bat` for GUI version  
+- Open `src/Main.ipynb` in Jupyter or Google Colab  
+- OR double-click `src/run.bat` to launch the GUI (Windows only)
 
 ---
 
